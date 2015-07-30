@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Task2.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class Task2Test
     {
         [TestMethod]
         public void TestZero()

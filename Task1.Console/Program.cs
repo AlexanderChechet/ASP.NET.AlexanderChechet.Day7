@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Linq;
-using Task2;
 
 namespace Task1.Console
 {
@@ -8,7 +6,7 @@ namespace Task1.Console
     {
         static void Main(string[] args)
         {
-            /*System.Console.WriteLine("Enter timer time");
+            System.Console.WriteLine("Enter timer time");
             int tick;
             try
             {
@@ -35,12 +33,7 @@ namespace Task1.Console
                 {
                     System.Console.WriteLine(innerException.Message);
                 }
-            }*/
-            foreach (var number in Fibonacci.Numbers(7).ToArray())
-            {
-                System.Console.WriteLine(number);
             }
-
             System.Console.ReadLine();
         }
 
