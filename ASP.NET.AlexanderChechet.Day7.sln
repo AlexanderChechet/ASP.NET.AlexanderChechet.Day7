@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.Console", "Task3.Console\Task3.Console.csproj", "{F21AFA68-9F77-44C1-B40A-32E9B5F263A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{958DB00B-69A0-4FF3-BCBF-77F64DC74F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.Test", "Task4.Test\Task4.Test.csproj", "{7F376ECC-2F73-4730-A01B-E4D53EFCDD94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{F21AFA68-9F77-44C1-B40A-32E9B5F263A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21AFA68-9F77-44C1-B40A-32E9B5F263A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21AFA68-9F77-44C1-B40A-32E9B5F263A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958DB00B-69A0-4FF3-BCBF-77F64DC74F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958DB00B-69A0-4FF3-BCBF-77F64DC74F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958DB00B-69A0-4FF3-BCBF-77F64DC74F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958DB00B-69A0-4FF3-BCBF-77F64DC74F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F376ECC-2F73-4730-A01B-E4D53EFCDD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F376ECC-2F73-4730-A01B-E4D53EFCDD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F376ECC-2F73-4730-A01B-E4D53EFCDD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F376ECC-2F73-4730-A01B-E4D53EFCDD94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
